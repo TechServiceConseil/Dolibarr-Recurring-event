@@ -60,12 +60,8 @@ Note: If this screen tell you that there is no "custom" directory, check that yo
 
 ### From a GIT repository
 
-Clone the repository in ```$dolibarr_main_document_root_alt/tscmod```
+Clone the repository
 
-```sh
-cd ....../custom
-git clone git@github.com:gitlogin/tscmod.git tscmod
-```
 
 ### <a name="final_steps"></a>Final steps
 
