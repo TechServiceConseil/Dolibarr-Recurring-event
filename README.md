@@ -5,7 +5,8 @@ Recurring event
 
 ## Features
 
-Description of the module...
+Look the video on our channel (link to come)
+HELP WANTED TO GET CONTACT WORKS
 
 <!--
 ![Screenshot tscmod](img/screenshot_tscmod.png?raw=true "Tscmod"){imgmd}
