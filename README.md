@@ -92,54 +92,11 @@ You need to create extrafieds to get it work. They are bellow.
 120; Evénement source de la récurrence; Evénement source de la récurrence; fk_actioncomm; Chaîne de caractères (1 ligne); 255; Non; Non; Oui; 5; 0; Non	  
 
                             Édition du champ recurrenceunit
-Libellé ou clé de traduction	
-Unité de la récurrence
-Code de l'attribut	recurrenceunit
-Type	
-Taille	
 Valeur	
     1,an
     2,mois
     3,semaine
     4,jour
-Position	
-105
-Fichier de langue	
-Valeur par défaut (Base de données)	
-Unique	
-Requis	
-Peut toujours être édité	
-Visibilité	
-1
-Afficher sur PDF	
-0
-Sommable	
-Texte d'aide à afficher dans l'info-bulle	
-Modifie le comportement du champ récurrence
-
-
-
-	                    Édition du champ fk_actioncomm
-Libellé ou clé de traduction	
-Evénement source de la récurrence
-Code de l'attribut	fk_actioncomm
-Type	
-Taille	
-255
-Position	
-120
-Fichier de langue	
-Champ calculé	
-Valeur par défaut (Base de données)	
-Unique	
-Requis	
-Peut toujours être édité	
-Visibilité	
-5
-Afficher sur PDF	
-0
-Sommable	
-Texte d'aide à afficher dans l'info-bulle	
       
       
 Enjoy! That functionnality is add in V17 in the core, but that works for v16 and maybe lesser 
