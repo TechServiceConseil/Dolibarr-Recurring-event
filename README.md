@@ -93,10 +93,10 @@ You need to create extrafieds to get it work. They are bellow.
 
 For the extrafield "Unité de la récurrence" the value are below
 Valeur:
-    - 1,an
-    - 2,mois
-    - 3,semaine
-    - 4,jour
+- 1,an
+- 2,mois
+- 3,semaine
+- 4,jour
       
       
 Enjoy! That functionnality is add in V17 in the core, but that works for v16 and maybe lesser 
