@@ -86,10 +86,10 @@ All texts and readmes are licensed under GFDL.
 
 You need to create extrafieds to get it work. They are bellow.
 
-100	Evénement récurrent 	            Evénement récurrent	                recurrencebool	Boolean (case à cocher unique)			Non	Non	Oui	1	0	Non	  
-105	Unité de la récurrence              Unité de la récurrence	            recurrenceunit	Liste de sélection			            Non	Non	Oui	1	0	Non	  
-115	Date de fin de récurrence	        Date de fin de récurrence	        recurrenceend	Date et heure			                Non	Non	Oui	1	0	Non	  
-120	Evénement source de la récurrence	Evénement source de la récurrence	fk_actioncomm	Chaîne de caractères (1 ligne)	255		Non	Non	Oui	5	0	Non	  
+100; Evénement récurrent; Evénement récurrent; recurrencebool; Boolean (case à cocher unique); Non; Non; Oui; 1; 0; Non	  
+105; Unité de la récurrence; Unité de la récurrence; recurrenceunit; Liste de sélection; Non; Non; Oui; 1; 0; Non	  
+115; Date de fin de récurrence; Date de fin de récurrence; recurrenceend; Date et heure; Non; Non; Oui; 1; 0; Non	  
+120; Evénement source de la récurrence; Evénement source de la récurrence; fk_actioncomm; Chaîne de caractères (1 ligne); 255; Non; Non; Oui; 5; 0; Non	  
 
                             Édition du champ recurrenceunit
 Libellé ou clé de traduction	
