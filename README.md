@@ -91,12 +91,12 @@ You need to create extrafieds to get it work. They are bellow.
 115; Date de fin de récurrence; Date de fin de récurrence; recurrenceend; Date et heure; Non; Non; Oui; 1; 0; Non	  
 120; Evénement source de la récurrence; Evénement source de la récurrence; fk_actioncomm; Chaîne de caractères (1 ligne); 255; Non; Non; Oui; 5; 0; Non	  
 
-
+For the extrafield "Unité de la récurrence" the value are below
 Valeur:
-1,an
-2,mois
-3,semaine
-4,jour
+    - 1,an
+    - 2,mois
+    - 3,semaine
+    - 4,jour
       
       
 Enjoy! That functionnality is add in V17 in the core, but that works for v16 and maybe lesser 
