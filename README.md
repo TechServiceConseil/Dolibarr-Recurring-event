@@ -84,7 +84,7 @@ GPLv3 or (at your option) any later version. See file COPYING for more informati
 
 All texts and readmes are licensed under GFDL.
 
-You need to create extrafieds to get it work. They are bellow.
+You need to create extrafieds to get it work. They are bellow. (this is the list view)
 
 - 100; Récurrence; Récurrence; recurrence; Séparateur (il ne s'agit pas d'un champ de saisie); Non; Non; Non; 3; 0; Non
 - 102; Evénement récurrent; Evénement récurrent; recurrencebool; Boolean (case à cocher unique); Non; Non; Oui; 1; 0; Non
