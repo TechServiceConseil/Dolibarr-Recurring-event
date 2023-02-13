@@ -86,13 +86,14 @@ All texts and readmes are licensed under GFDL.
 
 You need to create extrafieds to get it work. They are bellow.
 
-100; Evénement récurrent; Evénement récurrent; recurrencebool; Boolean (case à cocher unique); Non; Non; Oui; 1; 0; Non	  
+100; Récurrence; Récurrence; recurrence; Séparateur (il ne s'agit pas d'un champ de saisie); Non; Non; Non; 3; 0; Non
+102; Evénement récurrent; Evénement récurrent; recurrencebool; Boolean (case à cocher unique); Non; Non; Oui; 1; 0; Non
+103; Nombre d'unité; Nombre d'unité; recurrenceunitnumber; Chaîne de caractères (1 ligne); 255; Non; Non; Oui; 1; 0; Oui
 105; Unité de la récurrence; Unité de la récurrence; recurrenceunit; Liste de sélection; Non; Non; Oui; 1; 0; Non	  
 115; Date de fin de récurrence; Date de fin de récurrence; recurrenceend; Date et heure; Non; Non; Oui; 1; 0; Non	  
 120; Evénement source de la récurrence; Evénement source de la récurrence; fk_actioncomm; Chaîne de caractères (1 ligne); 255; Non; Non; Oui; 5; 0; Non	  
 
 For the extrafield "Unité de la récurrence" the value are below
-Valeur:
 - 1,an
 - 2,mois
 - 3,semaine
