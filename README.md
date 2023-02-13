@@ -92,7 +92,7 @@ You need to create extrafieds to get it work. They are bellow.
 120; Evénement source de la récurrence; Evénement source de la récurrence; fk_actioncomm; Chaîne de caractères (1 ligne); 255; Non; Non; Oui; 5; 0; Non	  
 
                             Édition du champ recurrenceunit
-Valeur	
+Valeur
     1,an
     2,mois
     3,semaine
