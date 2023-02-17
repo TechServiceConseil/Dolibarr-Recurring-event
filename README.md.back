@@ -1,4 +1,4 @@
-# Recurring event and task FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
+# TSCMOD FOR [DOLIBARR ERP CRM](https://www.dolibarr.org)
 
 ## Features
 
@@ -84,7 +84,7 @@ GPLv3 or (at your option) any later version. See file COPYING for more informati
 
 All texts and readmes are licensed under GFDL.
 
-You need to create extrafieds to get it work. They are bellow. You have to add the same of task if you want use Recurring task
+You need to create extrafieds to get it work. They are bellow.
 
 100	Evénement récurrent 	            Evénement récurrent	                recurrencebool	Boolean (case à cocher unique)			Non	Non	Oui	1	0	Non	  
 105	Unité de la récurrence              Unité de la récurrence	            recurrenceunit	Liste de sélection			            Non	Non	Oui	1	0	Non	  
